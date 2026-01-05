@@ -1,6 +1,5 @@
-# house-price-prediction
-House Prices Prediction using Machine Learning (Ames Housing dataset)
 # House Price Prediction - Advanced Regression Techniques
+House Prices Prediction using Machine Learning (Ames Housing dataset)
 
 ## Project Overview
 The goal of this project is to build a machine learning model that predicts house prices based on various property characteristics.
